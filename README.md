@@ -163,7 +163,7 @@ See the [LICENSE](./LICENSE) file for full usage rights.
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/mharis-ai)  
+- 💼 [LinkedIn](https://linkedin.com/in/rajaharisai)  
 
 ---
 
